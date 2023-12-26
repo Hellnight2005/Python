@@ -9,7 +9,6 @@
 def PrintString(string):
     return print(string)
 
-
 PrintString("Abhijeet")
 
 def AreaOfCircle(r):
