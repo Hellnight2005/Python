@@ -1,7 +1,6 @@
 # Python Learning Roadmap
 
 ## Beginner Level
-
 ### 1. Introduction to Python
    - Install Python
    - Run your first Python script
